@@ -8,6 +8,7 @@ A client requested to see a refactored analysis of green energy stocks using VBA
 
 ## Results
 ![alt text](https://github.com/thehatch4815162342/stocks-analysis/blob/main/Resources/all_stocks_refactored_2017.png?raw=true) ![alt text](https://github.com/thehatch4815162342/stocks-analysis/blob/main/Resources/all_stocks_refactored_2018.png?raw=true)
+
 Here is the stock analysis for both before and after the refactoring of the code. 
 A few takeaways here include:
 -2017 saw a better return for nearly all stocks besides TERP (with a -7.2% return) in comparison to 2018
@@ -20,7 +21,7 @@ A few takeaways here include:
 ### Execution Time After
  ![alt text](https://github.com/thehatch4815162342/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true) ![alt text](https://github.com/thehatch4815162342/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true)
  
-As we can see above, refactoring the code has speed up execution time, but in this case the time differences are not drastically different. However, with bigger datasets, I believe there could be an actual significant difference.
+As we can see above, refactoring the code has speed up execution time, but in this case the time differences are not drastically different. However, with bigger datasets I believe there could be an actual significant difference.
  
 ## Summary
 It appears, in this case, refactoring the code was beneficial. The code is now faster and more efficient just like the client desired. However, I can see one disadvantage of refactoring code is that it can be time consuming.
