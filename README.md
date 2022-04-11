@@ -12,9 +12,9 @@ A client requested to see a refactored analysis of green energy stocks using VBA
 Here is the stock analysis for both before and after the refactoring of the code.
 
 A few takeaways here include:
- -2017 saw a better return for nearly all stocks besides TERP (with a -7.2% return) in comparison to 2018
- -DQ saw the highest return in 2017 at 199.4%, however in 2018 it saw the lowest return at -62.6%
- -Only ENPH (81.9%) and RUN (84.0%) saw positive return in 2018
+ - 2017 saw a better return for nearly all stocks besides TERP (with a -7.2% return) in comparison to 2018
+ - DQ saw the highest return in 2017 at 199.4%, however in 2018 it saw the lowest return at -62.6%
+ - Only ENPH (81.9%) and RUN (84.0%) saw positive return in 2018
  
 ### Execution Time Before
  ![alt text](https://github.com/thehatch4815162342/stocks-analysis/blob/main/Resources/original_2017_runtime.png?raw=true)![alt text](https://github.com/thehatch4815162342/stocks-analysis/blob/main/Resources/original_2018_runtime.png?raw=true)
